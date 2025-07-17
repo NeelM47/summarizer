@@ -1,0 +1,39 @@
+NASA, Australia Team Up for Artemis II Lunar Laser Communications Test
+The headshot image of Molly Kearns
+Molly Kearns
+Jun 26, 2025
+Article
+An artist rendering of the Orion Spacecraft in the middle of the frame traveling close to the Moon in the right side of the frame. A red beam representing optical communications is being transmit from the side of the capsule out of frame to the left.
+An artist’s concept of NASA’s Orion spacecraft orbiting the Moon while using laser communications technology through the Orion Artemis II Optical Communications System.
+Credit: NASA/Dave Ryan
+As NASA prepares for its Artemis II mission, researchers at the agency’s Glenn Research Center in Cleveland are collaborating with The Australian National University (ANU) to prove inventive, cost-saving laser communications technologies in the lunar environment.
+
+Communicating in space usually relies on radio waves, but NASA is exploring laser, or optical, communications, which can send data 10 to 100 times faster to the ground. Instead of radio signals, these systems use infrared light to transmit high-definition video, picture, voice, and science data across vast distances in less time. NASA has proven laser communications during previous technology demonstrations, but Artemis II will be the first crewed mission to attempt using lasers to transmit data from deep space.
+
+To support this effort, researchers working on the agency’s Real Time Optical Receiver (RealTOR) project have developed a cost-effective laser transceiver using commercial-off-the-shelf parts. Earlier this year, NASA Glenn engineers built and tested a replica of the system at the center’s Aerospace Communications Facility, and they are now working with ANU to build a system with the same hardware models to prepare for the university’s Artemis II laser communications demo.
+
+“Australia’s upcoming lunar experiment could showcase the capability, affordability, and reproducibility of the deep space receiver engineered by Glenn,” said Jennifer Downey, co-principal investigator for the RealTOR project at NASA Glenn. “It’s an important step in proving the feasibility of using commercial parts to develop accessible technologies for sustainable exploration beyond Earth.”
+
+During Artemis II, which is scheduled for early 2026, NASA will fly an optical communications system aboard the Orion spacecraft, which will test using lasers to send data across the cosmos. During the mission, NASA will attempt to transmit recorded 4K ultra-high-definition video, flight procedures, pictures, science data, and voice communications from the Moon to Earth.
+
+An artistic rendering of a circular ground station on Earth, shaded with shadows. The ground station sits in front of a row of shadowed pine trees and a bright night sky full of colorful stars. A red beam is shown transmitted from the ground station up to the upper right corner and out of frame, representing laser communications.
+An artist’s concept of the optical communications ground station at Mount Stromlo Observatory in Canberra, Australia, using laser communications technology.
+Credit: The Australian National University
+Nearly 10,000 miles from Cleveland, ANU researchers working at the Mount Stromlo Observatory ground station hope to receive data during Orion’s journey around the Moon using the Glenn-developed transceiver model. This ground station will serve as a test location for the new transceiver design and will not be one of the mission’s primary ground stations. If the test is successful, it will prove that commercial parts can be used to build affordable, scalable space communication systems for future missions to the Moon, Mars, and beyond.
+
+“Engaging with The Australian National University to expand commercial laser communications offerings across the world will further demonstrate how this advanced satellite communications capability is ready to support the agency’s networks and missions as we set our sights on deep space exploration,” said Marie Piasecki, technology portfolio manager for NASA’s Space Communications and Navigation (SCaN) Program.
+
+As NASA continues to investigate the feasibility of using commercial parts to engineer ground stations, Glenn researchers will continue to provide critical support in preparation for Australia’s demonstration.
+
+Strong global partnerships advance technology breakthroughs and are instrumental as NASA expands humanity’s reach from the Moon to Mars, while fueling innovations that improve life on Earth. Through Artemis, NASA will send astronauts to explore the Moon for scientific discovery, economic benefits, and build the foundation for the first crewed missions to Mars.
+
+A group of eight individuals from the RealTOR research team stand in a line posing for a group photo. The team is smiling standing in front of a bright blue NASA banner, in a large room with tall windows that let in natural lighting.
+The Real Time Optical Receiver (RealTOR) team poses for a group photo in the Aerospace Communications Facility at NASA’s Glenn Research Center in Cleveland on Friday, Dec. 13, 2024. From left to right: Peter Simon, Sarah Tedder, John Clapham, Elisa Jager, Yousef Chahine, Michael Marsden, Brian Vyhnalek, and Nathan Wilson.
+Credit: NASA
+The RealTOR project is one aspect of the optical communications portfolio within NASA’s SCaN Program, which includes demonstrations and in-space experiment platforms to test the viability of infrared light for sending data to and from space. These include the LCOT (Low-Cost Optical Terminal) project, the Laser Communications Relay Demonstration, and more. NASA Glenn manages the project under the direction of agency’s SCaN Program at NASA Headquarters in Washington.
+
+The Australian National University’s demonstration is supported by the Australian Space Agency Moon to Mars Demonstrator Mission Grant program, which has facilitated operational capability for the Australian Deep Space Optical Ground Station Network.
+
+To learn how space communications and navigation capabilities support every agency mission, visit:
+
+https://www.nasa.gov/communicating-with-missions

@@ -1,0 +1,62 @@
+How AI could revolutionize drug discovery
+November 16, 2022 | Video
+By 
+Alex Devereson
+, Christoph Sandler, and Lydia The
+
+Artificial intelligence could help scientists develop better medicines faster—and thus improve millions of people’s lives. But for that to happen, companies will need to change the way they work.
+DOWNLOADS
+Article (3 pages)
+Human bodies are incredibly complex. It takes many years to discover even just one new medicine to successfully treat a disease. Could artificial intelligence help speed up that process? McKinsey experts believe so. (The following transcript has been edited for clarity.)
+
+Play Video
+Video
+How AI could revolutionize drug discovery
+Faster and better
+How relevant and useful is this article for you?
+
+Most Popular Insights
+What to read next: McKinsey’s 2025 annual book recommendations
+Seizing the agentic AI advantage
+The state of AI: How organizations are rewiring to capture value
+Superagency in the workplace: Empowering people to unlock AI’s full potential
+Lydia The: What excites me about AI and drug discovery is the convergence between technology, drug development, and biology, which is going to lead to better drugs being developed faster—using all of the capabilities that Silicon Valley and the tech ecosystem have developed—to help us have even greater impact on patients.
+
+Christoph Sandler: Today, to discover and develop a drug takes more than ten years.
+
+Alex Devereson: We might be able to have drugs in one-tenth of the time, from being discovered to being able to treat patients. Today, many diseases simply have no treatments whatsoever. I think, and I hope, we’re going to see a world where we can generate therapies that can treat those patients very effectively. Fundamentally, we will have life-changing, game-changing drugs—on a scale and at a pace that we’ve never seen before—getting to the right patient at the right time.
+
+The promise of personalized medicine
+Christoph Sandler: In the not-so-distant future, we might collect health data across different inputs: from wearables, from our electronic medical records, or from clinical or academic research. And we will have the opportunity, on a voluntary basis, to upload these data into a central, secure, trusted data storage system.
+
+Lydia The: You could imagine using the data to figure out not just what drug might work for you but exactly what drug would work for you at what time, in what sequence, in what dose—really personalized to you.
+
+Will AI replace scientists?
+Lydia The: What we’ve found is that technology doesn’t supplant the people. Rather, it will enable scientists to do things faster and better—and potentially develop insights that humans would not be able to develop at all.
+
+Alex Devereson: Scientists will be able to discover things with machine learning that they could never have thought of by themselves, generate entirely new ideas, and move at a pace at which one person can do what it would have taken 100 to do before.
+
+Lydia The: While in previous generations, scientists would spend a lot of their time—maybe even the majority of their time—on manual efforts such as pipetting from one tray to another tray or manually curating and cleaning data, I think AI will help us do all of those things in a more automated and quick way, and develop hypotheses that can then lead a scientist to think through, “What would the next experiment be? What are the implications of the data?”
+
+What companies should do today
+Alex Devereson: I think the challenge a lot of companies have is that they want to explore new ideas but, for good reason, they are reluctant to commit until they’ve seen some results and some tangible impact. So they explore a lot of pilots.
+
+Lydia The: We have a term for that. We call it “pilot purgatory”: companies focus on one pilot, and they see the returns in a single pilot, but they don’t establish that approach and way of operating across their organization.
+
+Define a ‘North Star’
+Lydia The: One of the most important things for companies to escape pilot purgatory is a real mindset shift, from the top end all the way through the rest of the organization.
+
+Christoph Sandler: It is important for the organization to define what a North Star for them should be, so that the data and analytics transformation of the R&D function can be targeted toward that North Star.
+
+Identify—and solve—the biggest pain points
+Alex Devereson: Truly understand what your biggest scientific and operational pain points are. For the lab scientists, for the patients who are in your clinical trials, for the patients who might get the drug: What is the biggest unsolved problem today?
+
+Embed analytics into decision making
+Christoph Sandler: Bring the organization on board and help them understand the potential of data and analytics.
+
+Alex Devereson: You need to really, truly redesign a process that embeds analytics, where it’s not something on the side; it’s truly a part of the decision making.
+
+Christoph Sandler: And you need to establish trust in the data and in these models. Equally important as the technical part is the human part.
+
+Deliver value quickly
+Alex Devereson: Don’t set up a project that delivers only after five years. Have a view on how you can deliver value in three months—and on what it takes in terms of analytics, data, and technology—with a relentless laser focus on value for the patient and for the scientific process.

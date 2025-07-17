@@ -1,0 +1,50 @@
+IEEE.orgIEEE Xplore Digital LibraryIEEE StandardsMore Sites
+
+Just How Many Robots Can One Person Control at Once?
+Search: 
+Type to search
+
+Just How Many Robots Can One Person Control at Once? A DARPA project overturns longstanding assumptionsMichelle Hampson26 Jan 20254 min read
+Illustration showing a silhouetted swarm of drones with red eyes.
+Planet Flem/iStock
+    
+autonomous robots disaster robots human robot interaction military robots darpa journal watch
+This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.
+
+Swarms of autonomous robots are increasingly being tested and deployed in complex missions, yet a certain level of human oversight during these missions is still required. Which means a major question remains: How many robots—and how complex a mission—can a single human manage before becoming overwhelmed?
+
+In a study funded by the U.S. Defense Advanced Research Projects Agency (DARPA), experts show that humans can single-handedly and effectively manage a heterogenous swarm of more than 100 autonomous ground and aerial vehicles, while feeling overwhelmed only for brief periods of time during an overall small portion of the mission. For instance, in a particularly challenging, multiday experiment in an urban setting, human controllers were overloaded with the workload only 3 percent of the time. The results were published 19 November in IEEE Transactions on Field Robotics.
+
+Julie A. Adams, the associate director of research at Oregon State University’s Collaborative Robotics and Intelligent Systems Institute, has been studying human interactions with robots and other complex systems, such as aircraft cockpits and nuclear power-plant control rooms, for 35 years. She notes that robot swarms can be used to support missions where work may be particularly dangerous and hazardous for humans, such as monitoring wildfires.
+
+“Swarms can be used to provide persistent coverage of an area, such as monitoring for new fires or looters in the recently burned areas of Los Angeles,” Adams says. “The information can be used to direct limited assets, such as firefighting units or water tankers to new fires and hotspots, or to locations at which fires were thought to have been extinguished.”
+
+These kinds of missions can involve a mix of many different kinds of uncrewed ground vehicles (such as the Aion Robotics R1 wheeled robot) and aerial autonomous vehicles (like the Modal AI VOXL M500 quadcopter), and a human controller may need to reassign individual robots to different tasks as the mission unfolds. Notably, some theories over the past few decades—and even Adams’s early thesis work—suggest that a single human has limited capacity to deploy very large numbers of robots.
+
+“These historical theories and the associated empirical results showed that as the number of ground robots increased, so did the human’s workload, which often resulted in reduced overall performance,” says Adams, noting that, although earlier research focused on unmanned ground vehicles (UGVs), which must deal with curbs and other physical barriers, unmanned aerial vehicles (UAVs) often encounter fewer physical barriers.
+
+Aerial visualization of several drone swarms executing a mission. Human controllers managed their swarms of autonomous vehicles with a virtual display. The fuschia ring represents the area the person could see within the head-mounted display.DARPA
+As part of DARPA’s OFFensive Swarm-Enabled Tactics (OFFSET) program, Adams and her colleagues sought to explore whether these theories applied to very complex missions involving a mix of uncrewed ground and air vehicles. In November 2021, at Fort Campbell in Kentucky, two human controllers took turns engaging in a series of missions over the course of three weeks with the objective of neutralizing an adversarial target. Both human controllers had significant experience controlling swarms, and participated in alternating shifts that ranged from 1.5 to 3 hours per day.
+
+Testing How Big of a Swarm Humans Can Manage
+During the tests, the human controllers were positioned in a designated area on the edge of the testing site, and used a virtual reconstruction of the environment to keep tabs on where vehicles were and what tasks they were assigned to.
+
+The largest mission shift involved 110 drones, 30 ground vehicles, and up to 50 virtual vehicles representing additional real-world vehicles. The robots had to navigate through the physical urban environment, as well as a series of virtual hazards represented using AprilTags—simplified QR codes that could represent imaginary hazards—that were scattered throughout the mission site.
+
+3DR Solo, Uvify IFO-S, AION R1 with TX2 and Modal AI VOXL m500 UGVs and UAVs.Clockwise from top left: a 3DR Solo, Uvify IFO-S, AION R1 with TX2, and Modal AI VOXL m500 UGVs and UAVs.Phillip Walker et al.
+DARPA made the final field exercise exceptionally challenging by providing thousands of hazards and pieces of information to inform the search. “The complexity of the hazards was significant,” Adams says, noting that some hazards required multiple robots to interact with them simultaneously, and some hazards moved around the environment.
+
+Throughout each mission shift, the human controller’s physiological responses to the tasks at hand were monitored. For example, sensors collected data on their heart-rate variability, posture, and even their speech rate. The data were input into an established algorithm that estimates workload levels and was used to determine when the controller was reaching a workload level that exceeded a normal range, called an “overload state.”
+
+Adams notes that, despite the complexity and large volume of robots to manage in this field exercise, the number and duration of overload state instances were relatively short—a handful of minutes during a mission shift. “The total percentage of estimated overload states was 3 percent of all workload estimates across all shifts for which we collected data,” she says.
+
+
+
+
+www.youtube.com
+
+The most common reason for a human commander to reach an overload state is when they had to generate multiple new tactics or inspect which vehicles in the launch zone were available for deployment.
+
+Adams notes that these finding suggest that—counter to past theories—the number of robots may be less influential on human swarm-control performance than previously thought. Her team is exploring the other factors that may affect swarm-control missions, such as other human limitations, system designs, and UAS designs, the results of which will potentially inform U.S. Federal Aviation Administration drone regulations, she says.
+
+This story was updated on 27 January 2025 to clarify that the experiment studied only whether controllers were overwhelmed by the workload, and not whether they were stressed.

@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment folders
+venv/
+summarizer/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# Local data files (if they are large or private)
+# We can keep our small sample_article.txt for now
+# data/

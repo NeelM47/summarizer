@@ -1,0 +1,55 @@
+Q&A: Ghost Robotics CEO on Armed Robots for the U.S. Military Jiren Parikh, the CEO of Ghost Robotics, on quadrupedal robots carrying weaponsEvan Ackerman18 Oct 20216 min read
+Evan Ackerman is IEEE Spectrum’s robotics editor.
+
+A black quadrupedal robot with a futuristic rifle on its back stands in an exhibition hall
+Ghost Robotics
+    
+ghost robotics military robots legged robots quadruped robots robotics autonomous weapons
+Last week, the Association of the United States Army (AUSA) conference took place in Washington, D.C. One of the exhibitors was Ghost Robotics—we've previously covered their nimble and dynamic quadrupedal robots, which originated at the University of Pennsylvania with Minitaur in 2016. Since then, Ghost has developed larger, ruggedized "quadrupedal unmanned ground vehicles" (Q-UGVs) suitable for a variety of applications, one of which is military.
+
+At AUSA, Ghost had a variety of its Vision 60 robots on display with a selection of defense-oriented payloads, including the system above, which is a remotely controlled rifle customized for the robot by a company called SWORD International.
+
+The image of a futuristic-looking, potentially lethal weapon on a quadrupedal robot has generated some very strong reactions (the majority of them negative) in the media as well as on social media over the past few days. We recently spoke with Ghost Robotics' CEO Jiren Parikh to understand exactly what was being shown at AUSA, and to get his perspective on providing the military with armed autonomous robots.
+
+IEEE Spectrum: Can you describe the level of autonomy that your robot has, as well as the level of autonomy that the payload has?
+
+Jiren Parikh: It's critical to separate the two. The SPUR, or Special Purpose Unmanned Rifle from SWORD Defense, has no autonomy and no AI. It's triggered from a distance, and that has to be done by a human. There is always an operator in the loop. SWORD's customers include special operations teams worldwide, and when SWORD contacted us through a former special ops team member, the idea was to create a walking tripod proof of concept. They wanted a way of keeping the human who would otherwise have to pull the trigger at a distance from the weapon, to minimize the danger that they'd be in. We thought it was a great idea.
+
+Our robot is also not autonomous. It's remotely operated with an operator in the loop. It does have perception for object avoidance for the environment because we need it to be able to walk around things and remain stable on unstructured terrain, and the operator has the ability to set GPS waypoints so it travels to a specific location. There's no targeting or weapons-related AI, and we have no intention of doing that. We support SWORD Defense like we do any other military, public safety or enterprise payload partner, and don't have any intention of selling weapons payloads.
+
+Who is currently using your robots?
+
+We have more than 20 worldwide government customers from various agencies, US and allied, who abide by very strict rules. You can see it and feel it when you talk to any of these agencies; they are not pro-autonomous weapons. I think they also recognize that they have to be careful about what they introduce. The vast majority of our customers are using them or developing applications for CBRNE [Chemical, Biological, Radiological, Nuclear, and Explosives detection], reconnaissance, target acquisition, confined space and subterranean inspection, mapping, EOD safety, wireless mesh networks, perimeter security and other applications where they want a better option than tracked and wheeled robots that are less agile and capable.
+
+We also have agencies that do work where we are not privy to details. We sell them our robot and they can use it with any software, any radio, and any payload, and the folks that are using these systems, they're probably special teams, WMD and CBRN units and other special units doing confidential or classified operations in remote locations. We can only assume that a lot of our customers are doing really difficult, dangerous work. And remember that these are men and women who can't talk about what they do, with families who are under constant stress. So all we're trying to do is allow them to use our robot in military and other government agency applications to keep our people from getting hurt. That's what we promote. And if it's a weapon that they need to put on our robot to do their job, we're happy for them to do that. No different than any other dual use technology company that sells to defense or other government agencies.
+
+How is what Ghost Robotics had on display at AUSA functionally different from other armed robotic platforms that have been around for well over a decade?
+
+Decades ago, we had guided missiles, which are basically robots with weapons on them. People don't consider it a robot, but that's what it is. More recently, there have been drones and ground robots with weapons on them. But they didn't have legs, and they're not invoking this evolutionary memory of predators. And now add science fiction movies and social media to that, which we have no control over—the challenge for us is that legged robots are fascinating, and science fiction has made them scary. So I think we're going to have to socialize these kinds of legged systems over the next five to ten years in small steps, and hopefully people get used to them and understand the benefits for our soldiers. But we know it can be frightening. We also have families, and we think about these things as well.
+
+“If our robot had tracks on it instead of legs, nobody would be paying attention."
+—Jiren Parikh
+
+Are you concerned that showing legged robots with weapons will further amplify this perception problem, and make people less likely to accept them?
+
+In the short term, weeks or months, yes. I think if you're talking about a year or two, no. We will get used to these robots just like armed drones, they just have to be socialized. If our robot had tracks on it instead of legs, nobody would be paying attention. We just have to get used to robots with legs.
+
+A green quadrupedal robot standing on grass with a robotic arm on its back
+More broadly, how does Ghost Robotics think armed robots should or should not be used?
+
+I think there is a critical place for these robots in the military. Our military is here to protect us, and there are servicemen and women who are putting their lives on the line everyday to protect the United States and allies. I do not want them to lack for our robot with whatever payload, including weapons systems, if they need it to do their job and keep us safe. And if we've saved one life because these people had our robot when they needed it, I think that's something to be proud of.
+
+I'll tell you personally: until I joined Ghost Robotics, I was oblivious to the amount of stress and turmoil and pain our servicemen and women go through to protect us. Some of the special operations folks that we talk to, they can't disclose what they do, but you can feel it when they talk about their colleagues and comrades that they've lost. The amount of energy that's put into protecting us by these people that we don't even know is really amazing, and we take it for granted.
+
+What about in the context of police rather than the military?
+
+I don't see that happening. We've just started talking with law enforcement, but we haven't had any inquiries on weapons. It's been hazmat, CBRNE, recon of confined spaces and crime scenes or sending robots in to talk with people that are barricaded or involved in a hostage situation. I don't think you're going to see the police using weaponized robots. In other countries, it's certainly possible, but I believe that it won't happen here. We live in a country where our military is run by a very strict set of rules, and we have this political and civilian backstop on how engagements should be conducted with new technologies.
+
+How do you feel about the push for regulation of lethal autonomous weapons?
+
+We're all for regulation. We're all for it. This is something everybody should be for right now. What those regulations are, what you can or can't do and how AI is deployed, I think that's for politicians and the armed services to decide. The question is whether the rest of the world will abide by it, and so we have to be realistic and we have to be ready to support defending ourselves against rogue nations or terrorist organizations that feel differently. Sticking your head in the sand is not the solution.
+
+Based on the response that you've experienced over the past several days, will you be doing anything differently going forward?
+
+We're very committed to what we're doing, and our team here understands our mission. We're not going to be reactive. And we're going to stick by our commitment to our US and allied government customers. We're going to help them do whatever they need to do, with whatever payload they need, to do their job, and do it safely. We are very fortunate to live in a country where the use of military force is a last resort, and the use of new technologies and weapons takes years and involves considerable deliberation from the armed services with civilian oversight.
+

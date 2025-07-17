@@ -1,0 +1,19 @@
+
+Innovation
+Science
+DARPA Robot Carries Heavy Loads So Soldiers Don't Have To
+ByAlex Knapp, Forbes Staff. Alex Knapp is a Forbes senior editor covering healthcare and science.
+Feb 08, 2012, 01:13am ESTFeb 08, 2012, 11:24pm EST
+
+Save
+This article is more than 10 years old.
+uncaptionedHere's one thing that first person shooter games, especially ones that are military simulations, do a bad thing of demonstrating: guns and ammunition are heavy. Especially when you couple them with other supplies. Out in the field, once a solider is fully loaded down with weapons, ammunition, and equipment, he can be shouldering over a hundred pounds. Even for people in top physical condition, that can cause a lot of strain and fatigue.
+
+To solve this problem, DARPA is working with Boston Dynamics on a mobile, semi-autonomous robot, the Legged Squad Support System (aka the 'LS3') that can carry equipment to ease the burden on soldiers. Yesterday, DARPA announced that an LS3 protoype has successfully completed several exercises, including the ability to follow a person using its sensors over rugged terrain outside.
+
+The next step in testing the LS3 is to add the ability to obey simple verbal commands, like "sit" or "come here."  Additionally, DARPA hopes that the LS3 will be able to carry a 400 pound load over the course of a 20 mile rugged terrain trek without refueling. In essence, DARPA is looking for the LS3 to be a robotic "pack mule."
+
+"If successful, this could provide real value to a squad while addressing the military’s concern for unburdening troops," said Army Lt. Col. Joe Hitt, DARPA program manager in a press release. "LS3 seeks to have the responsiveness of a trained animal and the carrying capacity of a mule."
+
+You can check out the LS3 in action in the video below.
+

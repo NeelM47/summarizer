@@ -1,0 +1,94 @@
+Self-learning: The dawn of a new biomedical R&D paradigm
+July 15, 2022 | Article
+Science and technology are driving breakthroughs at each stage of the biomedical R&D value chain. Enhancing feedback loops among them could unleash a self-learning model that would benefit patients.
+
+DOWNLOADS
+Article (9 pages)
+Advances in cell and gene therapies (such as treatments based on chimeric antigen receptor T cells and mRNA) are just one of the early signs of the potential power of carefully designed, targeted interventions to treat diseases. This potential could soon be harnessed to design precise therapies to treat and prevent countless more diseases at speeds that would have seemed unimaginable until recently.
+About the authors
+The fuel powering this progress is the confluence of breakthroughs in biological sciences with advances in the harnessing of data, automation, computing power, and AI. These are already driving developments at each stage of the biomedical R&D value chain, from discovery to clinical testing to real-world use. But taking a step further to bring automation and AI to bear in connecting the data and insights generated at each stage of the process could begin an entirely new R&D paradigm.
+Most Popular Insights
+What to read next: McKinsey’s 2025 annual book recommendations
+Seizing the agentic AI advantage
+The state of AI: How organizations are rewiring to capture value
+Superagency in the workplace: Empowering people to unlock AI’s full potential
+The future of work is agentic
+Today’s reductionist approach—where scientists zoom in on a single component or function of disease biology and meticulously test hypotheses through trial and error (often against ill-defined, phenotypic disease states) before being able to develop and validate new therapies—would be a thing of the past. Instead, against much more precise disease states, therapies would be systematically designed for success in a circular process propelled by data feedback loops among the various stages of the R&D value chain. Data and insights gained at one stage would inform others up and down the value chain—and strengthen the understanding of other diseases too.
+
+The result would be exponential drug innovation. There would be fewer failed clinical candidates and many more novel, highly efficacious, safe treatments. There would be more preventative approaches and interventions that respond to early signals of a disease, not just late-stage symptoms. And treatments would be carefully targeted at different subpopulations.
+
+We believe that the world is nearing an inflection point in drug R&D where such a paradigm becomes possible—a Bio Revolution. This article examines some of the exciting tech-enabled research innovations afoot in laboratories around the world at each stage of the R&D value chain that are driving toward that point. And it inspects what biopharmaceutical companies might do to accelerate progress by integrating the data and insights across the value chain.
+
+Biopharma companies will need new data and tech infrastructures to make those connections. They will also need to consider organizing themselves differently, as the new R&D paradigm requires far more collaboration than exists today, not only between researchers and machines but also among researchers themselves and with external partners.
+
+Emerging solutions and approaches in biomedical R&D
+
+Share
+
+Sidebar
+Five elements of new biomedical R&D: Signals and enablers
+When considering most exciting developments of a new biomedical R&D value chain, we identified five elements: disease understanding, therapeutic-hypothesis generation, therapeutic-modality innovation, in silico and in vitro validation methods, and clinical and real-world evidence feedback. These elements convey the extent of the advancement being made. Some are well established; others haven’t yet been adopted broadly or fully validated, and it isn’t yet clear which will have most impact. Nevertheless, their collective power is indisputable (see sidebar “Five elements of new biomedical R&D: Signals and enablers”).
+
+Disease understanding
+The main factor impeding faster progress in developing more and better therapies for treating diseases—and preventing them—is limited understanding of the mechanisms that underly health and all the various manifestations of a disease. The mapping of the human genome 20 years ago was an important step forward, opening up many new avenues of research in human biology. However, genes are only a part of the broader puzzle of health and disease, and they don’t provide a complete-enough picture on their own to tackle most ailments.
+
+Important advances today include novel experimental approaches, such as cell painting for the generation of vast amounts of in vitro data that AI can analyze, population-wide multiomic measurements (especially transcriptomics and proteomics), and anonymized electronic health records. These can help the healthcare industry simulate and better define both healthy and diseased states in humans more accurately, considering comorbidities, disease progression, and differences among individuals.
+
+Therapeutic-hypothesis generation
+A more holistic, data-driven understanding of disease paves the way for the systematic and scalable generation of therapeutic hypotheses. Scientists today tend to explore individual cell types or pathways related to a specific disease or biomarker in search of a breakthrough. Progress being made on three fronts will likely change this, facilitating the rapid exploration of data to unearth previously unknown biological interdependencies relevant to a disease and the rapid generation of hypotheses:
+
+Better access to more data. Not only are there greater volumes of disease data and a greater variety of disease data, but there is also often good access to those data. This is thanks, in large measure, to the emergence of open-access databases. Genomic data, the structural and functional data of biomolecules, and screening data are all available on open-access databases, for example. Such data, if used carefully, can help scientists test hypotheses for repurposing existing drugs for known targets and for designing new ones.
+Tech enablers. Cheap and abundant computing power, the emergence of quantum computing, and machine-learning methods are among the tools that help solve increasingly complex analytical tasks in biomedicine.
+Automation of in silico hypothesis generation. Automating the generation of in silico hypotheses facilitates the high-throughput exploration of previously unconsidered correlations, not only between diseases and pathways but between diseases and a host of other factors, such as genes, nutrition, and behavior. It can also help debias hypotheses and improve those used in more established areas of science.
+Therapeutic-modality innovation
+Better disease understanding and advancement in scientific tech can lead to code-like therapeutics that are tailored specifically to a disease or patient. Several emerging modality platforms, including CRISPR-Cas9, mRNA, and RNAi, target the genetic code, for example. These types of therapeutics have the added advantage of being able to translate a biological problem into a biological model or a drug candidate quickly and thus accelerate inception.
+
+Because of mRNA’s linear, code-like sequence, it’s easier to design and synthesize for testing of its effect on cancer, for example, than to identify and synthesize targeted antibodies or small molecule inhibitors. Engineered cells (such as immune and regenerative therapies), multifunctional modalities (such as antibody drug conjugates and proteolysis-targeting chimeras), and synthetic microorganisms (such as those that rebalance the gut microbiome) are among a list of many other emerging modalities. Modality innovation isn’t restricted to biologics—improved computational methods, for example, can lead to more precisely designed small molecules.
+
+Meanwhile, advances in areas such as material science and synthetic biology will further improve existing modalities (through better delivery, more durability, or less immunogenicity, for example) or help develop new ones. And in the not-too-distant future, it might be possible to design, develop, and test personalized combinations of interventions that physicians today often only explore once patients are responding poorly to standard treatments. Such combinations—perhaps AI-assisted surgery followed by a prescribed drug, a digital therapeutic, and microbiome transplantation and an app connected to a wearable device to monitor the condition—would be carefully designed to maximize the synergies among them.
+
+In silico and in vitro validation methods
+Scientists today can generate rapid and high-throughput cell-on-chip or organ-on-chip testing models that replicate the genetic makeup of a patient or represent the cellular environment of a disease. Similarly, organoids re-create the 3-D environment of a human organ, potentially leading to more accurate outcomes than achieved through use of animal models, which can’t take account for all the biological differences among species, and more accurate outcomes than standardized cell lines, which don’t consider the broader environment of an organ.
+
+The more scientists learn about a disease through in vitro models, the easier it becomes to design a predictive in silico model that reflects it. There could soon come a time when scientists will have sufficient data to train in silico models to predict not only molecular properties (such as toxicity, absorption, distribution, metabolism, and excretion) but immunogenicity and drug-microbiome interactions too. With time, the preclinical filtering of drug candidates could be increasingly performed in silico rather than animal or in vitro models, leading to higher throughput and lowering the risk associated with therapeutic development.
+
+There could soon come a time when scientists will have sufficient data to train in silico models to predict not only molecular properties but immunogenicity and drug-microbiome interactions too.
+
+Clinical and real-world evidence feedback
+Tech facilitates the generation and collection of mass amounts of data. The more data about a disease that are accumulated through clinical trials of drug candidates, the more focused and precise future hypothesis generation and validation are likely to become. The same is true of data captured in electronic health records and other real-world data—the broad measurement of biomarkers and wearables that can generate data 24/7, for example. Such measurement can lead to more robust patient characterization, for instance, which can lead to more nuanced disease models. The maturation of computational methods, such as natural language processing, ensures that unstructured patient data from literature, not only new data, can be mined.
+
+A new biomedical R&D paradigm
+Today’s biomedical R&D value chain is often represented as a linear one, with a series of chevrons pointing forward to indicate how information gained at one stage in the chain informs subsequent ones in pursuit of a specific new treatment for a specific disease. Information does flow backward, too, and the research can have wider applications—the emergence of platform tech such as CRISPR, a versatile tool for validating research hypotheses and exploring disease biology that can serve directly as a therapeutic modality, being an example. But in the new paradigm, the process takes broader aim and is supercharged.
+
+Tech not only uncovers insights at each new paradigm stage that the human brain alone might struggle to detect but also identifies interdependencies among them. It also ensures that data and insights flow automatically up and down the value chain much more freely and rapidly than is the case today. It’s an intensely more iterative and circular process than one that relies on humans to agree and initiate each iteration. The traditional, linear R&D process would be replaced by one that’s far more interconnected—a series of spinning wheels constantly feeding information rapidly back and forth (exhibit).
+
+Exhibit
+Future biomedical R&D will be an iterative process in which the insights from each step improve other cycles.
+We strive to provide individuals with disabilities equal access to our website. If you would like information about this content we will be happy to work with you. Please email us at: McKinsey_Website_Accessibility@mckinsey.com
+Ultimately, the goal of the new paradigm would be to feed and connect every data point captured and every insight gained into a single data vault. Algorithms could draw from that vault to improve understanding and treatment of many different diseases.
+
+Better disease understanding, if not a redefinition of specific disease states, leads to far more accurate, scalable therapeutic hypotheses, which lead to many more highly tailored therapeutic modalities. A large share of the initial testing of those hypotheses can then be automated in silico and in vitro. At the same time, the backward flow of information reinforces progress, as lessons from each step in the process can directly improve all previous steps. The large volumes of data generated in vitro and the real world and analyzed in silico rapidly inform disease understanding, generate new hypotheses, and help develop new modality platforms.
+
+
+Share
+
+Sidebar
+Connecting the data: Use case for a new biomedical R&D paradigm
+AI evaluation of the data might automatically suggest another round of in vitro testing, too, with refined experimental parameters or optimized therapeutic candidates. AI might even initiate the execution of those tests. For example, if in vitro testing showed that a drug candidate had weak binding affinity to a target, AI might compare the structure of the drug candidate with the target structure and come up with several ways in which the candidate could be improved, then go on to pick the most promising improvements, synthesize, and test them in a simulated clinical trial enabled by real-world data. With extensive use of AI and automation, the new R&D value chain could accelerate medical breakthroughs (see sidebar “Connecting the data: Use case for a new biomedical R&D paradigm”).
+
+A new organization model for a new biomedical R&D paradigm
+Companies are already working on projects that connect some of the different elements of the new biomedical R&D value chain with the help of biological advances, AI, and automation. However, no company, as far as we are aware, has systems in place that connect them all, making it possible to find and use relevant data wherever they might lie. Doing so will require new tech infrastructure to ensure that data are interconnected and machine legible and that quality improvement mechanisms (such as identification of false positives) are present. Yet organizational change will be required too.
+
+In many organizations, early and late R&D are kept separate, with evidence from clinics and the real world only slowly feeding back to researchers. Researchers are often siloed in business units that are focused on a single therapeutic area, and there are often many parallel systems and taxonomies for different biology models. In the new paradigm, such rigid divisions may need to be softened to reflect a more connected R&D process, affecting the way that teams are constructed, the capabilities that they encompass, and the company’s innovation model.
+
+Teams will likely need much broader scope to benefit from the fast exchange of information. They will be borderless, with capabilities that span every element of the R&D process. And while the teams will include subject specialists with deep expertise, they will also need multidiscipline experts able to understand the whole value chain and to harness the potential of both biology and tech—choosing the most reliable scientific approaches, for example, and assuring high-quality data.
+
+New governance mechanisms will likely be required to allow R&D teams to move swiftly. Teams will need the authority to advance promising therapeutic candidates to the next stage (if not done automatically), identify and prioritize the ideas with the highest breakthrough potential, and determine budget allocations, for example. Slower, centralized decision-making processes could counter the gains made by automation and AI. The teams will also need the authority to draw on external expertise and capacity, as success will depend not on proprietary drugs, tech, and modality platforms alone but on algorithms, data sets, and digital solutions too.
+
+Some of the necessary elements will be open-source assets; broadly accessible algorithms such as AlphaFold Protein Structure Database and various omics data sets are early examples of a trend toward open sourcing. But other assets will be owned by health-tech and data and analytics companies, forcing closer collaboration and partnerships. The extent of the expertise required across so many fields suggests that any single pharma company might struggle to develop all the required capabilities and tech in house.
+
+Given this situation and the fast pace of change within R&D, companies may find that what works best is an open-architecture biomedical R&D innovation model—one where components such as data, algorithms, and validation methods can be seamlessly plugged in as required. It would be a creative innovation model—one that gives companies the flexibility to invest and deploy the best methods and the best solutions at the right point in the R&D process and at the right point in time.
+
+The paradigm shift under way in biomedical R&D is of similar magnitude to that seen in the early 2000s with the introduction of the learn-and-confirm approach.1 Before then, drug discovery and development ideas often weren’t systematically prioritized and validated until late-stage trials, leading to poor success rates. The learn-and-confirm model introduced more rigor into the process and higher-quality pipelines. The pipeline funnel didn’t fundamentally change, however. It remained sequential, with only a limited amount of the learning gained at later stages in the funnel informing earlier ones the next time.
+
+Current tech advances are now disrupting that approach, shaping a less serendipitous, more deterministic, circular biomedical R&D value chain that’s propelled at speed by data feedback loops. The new paradigm is still evolving, and the end game unclear. The one we describe is only one potential way forward. However, it’s evident that the marriage of biological sciences with advances in data, automation, computing power, and AI will improve the traditional, reductionist approach to biomedical R&D and so improve patient outcomes. It’s a future worth preparing for.
