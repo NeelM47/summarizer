@@ -13,3 +13,4 @@ summarizer/
 # Local data files (if they are large or private)
 # We can keep our small sample_article.txt for now
 # data/
+__pycache__/
