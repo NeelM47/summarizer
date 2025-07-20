@@ -4,7 +4,6 @@ __pycache__/
 
 # Environment folders
 venv/
-summarizer/
 
 # IDE / Editor specific
 .idea/
