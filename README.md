@@ -1,3 +1,13 @@
+---
+title: Multi-Document Summarizer
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 8000
+pinned: true
+---
+
 # Hybrid Multi-Document Summarization System
 
 ![Project Demo GIF](https://your-link-to-a-gif-of-the-app-working.gif) <!-- You can create this later with a screen recorder -->
@@ -42,12 +52,12 @@ A full-stack application that effectively summarizes information from multiple d
 
 ```bash
 # Clone the repository
-git clone https://github.com/[Your-Username]/suvidha-summarizer.git
-cd suvidha-summarizer
+git clone https://github.com/NeelM47/summarizer.git
+cd summarizer
 
 # Create and activate the conda environment
-conda env create -f environment.yml # You should create this file!
-conda activate suvidha-summarizer
+conda env create -f environment.yml 
+conda activate summarizer
 
 # Run the FastAPI server
 uvicorn main:app --reload
@@ -60,14 +70,14 @@ Ensure you have Docker installed and running.
 
 ```bash
 # Clone the repository
-git clone https://github.com/[Your-Username]/suvidha-summarizer.git
+git clone https://github.com/NeelM47/summarizer.git
 cd suvidha-summarizer
 
 # Build the Docker image
-docker build -t summarizer-app .
+docker build -t summarizer .
 
 # Run the Docker container
-docker run -p 8000:8000 summarizer-app
+docker run -p 8000:8000 summarizer
 ```
 *Access the app at `http://127.0.0.1:8000`*
 
