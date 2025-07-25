@@ -1,24 +1,34 @@
-# Use an official Python runtime as a parent image
-# Using 'slim' keeps the image size smaller
+# 1. Base Image
 FROM python:3.9-slim
 
-# Set the working directory inside the container
+# 2. Set Working Directory and Python Path
 WORKDIR /app
+ENV PYTHONPATH="."
 
-# Copy the requirements file first to leverage Docker's layer caching
-# This means Docker won't re-install packages unless requirements.txt changes
+# --- THE FINAL FIX ---
+# 3. Set Environment Variables for Caching
+# This tells Hugging Face libraries to use a specific, writable cache folder
+# instead of the default one, which prevents permission errors.
+ENV HF_HOME="/app/cache/huggingface"
+ENV HF_DATASETS_CACHE="/app/cache/datasets"
+ENV TRANSFORMERS_CACHE="/app/cache/transformers"
+
+# 4. Copy and Install Dependencies
 COPY requirements.txt .
-
-# Install any needed packages specified in requirements.txt
-# --no-cache-dir makes the image smaller
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of your application code into the container
+# 5. Download NLTK data
+RUN python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
+
+# 6. Copy and run the model download script
+COPY download_models.py .
+RUN python download_models.py
+
+# 7. Copy the rest of the application code
 COPY . .
 
-# Make port 8000 available to the world outside this container
+# 8. Expose Port
 EXPOSE 8000
 
-# Define the command to run your app using uvicorn
-# Use 0.0.0.0 to make it accessible from outside the container
+# 9. Run Command
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
