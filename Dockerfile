@@ -1,14 +1,11 @@
-# 1. Base Image
+# 1. Base Image - THIS IS THE MISSING "BUILD STAGE"
 FROM python:3.9-slim
 
 # 2. Set Working Directory and Python Path
 WORKDIR /app
 ENV PYTHONPATH="."
 
-# --- THE FINAL FIX ---
 # 3. Set Environment Variables for Caching
-# This tells Hugging Face libraries to use a specific, writable cache folder
-# instead of the default one, which prevents permission errors.
 ENV HF_HOME="/app/cache/huggingface"
 ENV HF_DATASETS_CACHE="/app/cache/datasets"
 ENV TRANSFORMERS_CACHE="/app/cache/transformers"
