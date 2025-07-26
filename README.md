@@ -42,12 +42,12 @@ A full-stack application that effectively summarizes information from multiple d
 
 ```bash
 # Clone the repository
-git clone https://github.com/[Your-Username]/suvidha-summarizer.git
-cd suvidha-summarizer
+git clone https://github.com/NeelM47/summarizer.git
+cd summarizer
 
 # Create and activate the conda environment
-conda env create -f environment.yml # You should create this file!
-conda activate suvidha-summarizer
+conda env create -f environment.yml 
+conda activate summarizer
 
 # Run the FastAPI server
 uvicorn main:app --reload
@@ -60,14 +60,14 @@ Ensure you have Docker installed and running.
 
 ```bash
 # Clone the repository
-git clone https://github.com/[Your-Username]/suvidha-summarizer.git
-cd suvidha-summarizer
+git clone https://github.com/NeelM47/summarizer.git
+cd summarizer
 
 # Build the Docker image
-docker build -t summarizer-app .
+docker build -t summarizer .
 
 # Run the Docker container
-docker run -p 8000:8000 summarizer-app
+docker run -p 8000:8000 summarizer
 ```
 *Access the app at `http://127.0.0.1:8000`*
 
@@ -76,3 +76,4 @@ docker run -p 8000:8000 summarizer-app
 ## API Documentation
 
 Once the server is running, interactive API documentation (powered by Swagger UI) is available at `http://127.0.0.1:8000/docs`.
+
