@@ -14,7 +14,7 @@ pinned: true
 
 A full-stack application that effectively summarizes information from multiple documents, focusing on key topics and reducing redundancy. This project uses a hybrid extractive-abstractive approach to generate coherent and concise summaries.
 
-**[Link to your Live Demo Here]** <!-- This will be your Hugging Face Spaces link -->
+**https://huggingface.co/spaces/NeelM47/summarizer** <!-- This will be your Hugging Face Spaces link -->
 
 ---
 
