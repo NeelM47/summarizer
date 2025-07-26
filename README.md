@@ -1,10 +1,20 @@
+---
+title: Multi-Document Summarizer
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 8000
+pinned: true
+---
+
 # Hybrid Multi-Document Summarization System
 
 ![Project Demo GIF](https://your-link-to-a-gif-of-the-app-working.gif) <!-- You can create this later with a screen recorder -->
 
 A full-stack application that effectively summarizes information from multiple documents, focusing on key topics and reducing redundancy. This project uses a hybrid extractive-abstractive approach to generate coherent and concise summaries.
 
-**[Link to your Live Demo Here]** <!-- This will be your Hugging Face Spaces link -->
+**https://huggingface.co/spaces/NeelM47/summarizer** <!-- This will be your Hugging Face Spaces link -->
 
 ---
 
@@ -61,7 +71,11 @@ Ensure you have Docker installed and running.
 ```bash
 # Clone the repository
 git clone https://github.com/NeelM47/summarizer.git
+<<<<<<< HEAD
 cd summarizer
+=======
+cd suvidha-summarizer
+>>>>>>> 1d551d7cc667304ddd3e9d9a672bebd1f68bc829
 
 # Build the Docker image
 docker build -t summarizer .

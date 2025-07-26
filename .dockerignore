@@ -1,5 +1,4 @@
 # Ignore the conda environment if it's in the project folder
-summarizer/
 venv/
 
 # Ignore Python cache files
